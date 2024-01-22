@@ -1,6 +1,7 @@
 # weather_app
 
 A new Flutter project for weather
+![Screen](https://github.com/Reneuwumuhire/weather_app/assets/21109290/6d64b29e-af39-430c-b8bd-1d88e83dcc23)
 
 ## Getting Started
 
